@@ -13,3 +13,4 @@ def list_dwarves(array)
   array.each_with_index do |arry|
   print "#{arry}"
 end
+end
